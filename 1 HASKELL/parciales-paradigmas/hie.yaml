@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "parciales-paradigmas:lib"
+
+    - path: "./test"
+      component: "parciales-paradigmas:test:parciales-paradigmas-test"
